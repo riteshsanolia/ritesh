@@ -1,0 +1,240 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    height: 15vh;
+    background-color: rgb(29, 20, 58);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.text {
+    font-size: 50px;
+    border: 2px solid transparent;
+    width: 1500px;
+    text-align: center;
+
+    color: rgb(0, 8, 255);
+
+
+}
+
+.main {
+    background-color: rgb(26, 15, 62);
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.boy {
+    height: 70px;
+}
+
+.person1:hover {
+    transition: transform 2s;
+    /* transform: scale(1.5); */
+}
+
+.outerbox {
+    width: 25vw;
+    height: 68vh;
+    border: 2px solid transparent;
+    background-color: rgb(252, 253, 255);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 0px -1px 8px 2px;
+
+}
+
+.firstbox {
+    width: 49vh;
+    background-color: rgb(146, 147, 150);
+    box-shadow: 0px -1px 8px 2px;
+    height: 61vh;
+    border-radius: 15px;
+}
+
+.secondbox {
+    width: 350px;
+    margin-left: 4px;
+    margin-top: 5px;
+    height: 28vh;
+    border-radius: 15px;
+    background-image: url(boydeve.gif);
+    background-size: cover;
+}
+
+.con {
+    margin-left: 4px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 25px;
+    color: rgb(4, 4, 250);
+}
+
+.para1 {
+    margin-left: 4px;
+    font-size: 17px;
+}
+
+.link {
+    display: flex;
+    margin-top: 20px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    /* text-decoration: ; */
+    background-color: rgb(0, 0, 255, 0.3);
+    width: 150px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+.link a {
+    text-decoration: none;
+    color: rgb(28, 28, 217);
+}
+
+.girl {
+    height: 70px;
+}
+
+.outerbox2 {
+    width: 25vw;
+    height: 68vh;
+    border: 2px solid transparent;
+    background-color: rgb(252, 253, 255);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 0px -1px 8px 2px;
+
+}
+
+.firstbox2 {
+    width: 49vh;
+    background-color: rgb(146, 147, 150);
+    box-shadow: 0px -1px 8px 2px;
+    height: 61vh;
+    border-radius: 15px;
+}
+
+.secondbox2 {
+    width: 350px;
+    margin-left: 4px;
+    margin-top: 5px;
+    height: 28vh;
+    border-radius: 15px;
+    background-image: url(girl.gif);
+    background-size: cover;
+}
+
+.con2 {
+    margin-left: 4px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 25px;
+    color: blue;
+}
+
+.para12 {
+    margin-left: 4px;
+    font-size: 17px;
+}
+
+.link2 {
+    display: flex;
+    margin-top: 20px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 255, 0.3);
+    width: 150px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.link2 a {
+    text-decoration: none;
+    color: rgb(28, 28, 217);
+}
+
+.outerbox3 {
+    width: 25vw;
+    height: 68vh;
+    border: 2px solid transparent;
+    background-color: rgb(252, 253, 255);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 0px -1px 8px 2px;
+
+}
+
+.firstbox3 {
+    width: 49vh;
+    background-color: rgb(146, 147, 150);
+    box-shadow: 0px -1px 8px 2px;
+    height: 61vh;
+    border-radius: 15px;
+}
+
+.secondbox3 {
+    width: 350px;
+    margin-left: 4px;
+    margin-top: 5px;
+    height: 28vh;
+    border-radius: 15px;
+    background-image: url(boydev2.gif);
+    background-size: cover;
+}
+
+.con3 {
+    margin-left: 4px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 25px;
+    color: blue;
+}
+
+.para13 {
+    margin-left: 4px;
+    font-size: 17px;
+}
+
+.link3 {
+    display: flex;
+    margin-top: 20px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 255, 0.3);
+    width: 150px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.link3 a {
+    text-decoration: none;
+    color: rgb(28, 28, 217);
+}
